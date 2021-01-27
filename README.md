@@ -1,6 +1,6 @@
 # Pw
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+This Simple Password Generator App is developed with Angular CLI. App live link - https://password-generator-seven-black.vercel.app
 
 ## Development server
 
