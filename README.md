@@ -1,4 +1,4 @@
-# Pw
+# Password Generator App
 
 This Simple Password Generator App is developed with Angular CLI. App live link - https://password-generator-seven-black.vercel.app
 
